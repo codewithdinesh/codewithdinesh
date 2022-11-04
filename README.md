@@ -11,17 +11,22 @@
 - 🤝 Love to collaborate with other developers
 - 📫 How to reach me: [dineshrathod0198@gmail.com](mailto:dineshrathod0198+github@gmail.com)
 
-<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 ## 👨‍🎓️️Dev Stats
+<div style="display: flex; flex-direction: col;">
+
+  <img align="right" alt="Coding" height="240" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</div>
+
 
 <div style="display: flex; flex-direction: row;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=gotham&show_icons=true" alt="Top Langs" width="50%" />
+    <img  alt="Top Languages" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh">
 </div>
 &nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=codewithdinesh&theme=gotham" alt="Activity graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=codewithdinesh&theme=gotham" alt="Activity graph"  width="50%"  />
 
 
 --
