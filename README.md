@@ -11,21 +11,24 @@
 - 🤝 Love to collaborate with other developers
 - 📫 How to reach me: [dineshrathod0198@gmail.com](mailto:dineshrathod0198+github@gmail.com)
 
-<img align="right" alt="Coding" height="240" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="center" alt="Coding" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50%" >
+<br>
 
 
 ## 👨‍🎓️️Dev Stats
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks"
+       style=""
+       width="100%" />
 
   <!-- Stats   -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=gotham&show_icons=true&count_private=true" alt="Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=gotham&show_icons=true&count_private=true" alt="Stats" width="100%" />
 
   <!--  Top Langs  -->
-  <img  alt="Top Languages" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh&layout=compact&langs_count=8&count_private=true&theme=gotham&show_icons=true" width="50%" >
+  <img  alt="Top Languages" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh&layout=compact&langs_count=8&count_private=true&theme=gotham&show_icons=true">
 </div>
 &nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=codewithdinesh&theme=gotham" alt="Activity graph"  width="50%"  />
+<img src="https://activity-graph.herokuapp.com/graph?username=codewithdinesh&theme=gotham" alt="Activity graph"  width="100%"  />
 
 
 ---
