@@ -11,16 +11,10 @@
 - 🤝 Love to collaborate with other developers
 - 📫 How to reach me: [dineshrathod0198@gmail.com](mailto:dineshrathod0198+github@gmail.com)
 
+<img align="right" alt="Coding" height="240" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 ## 👨‍🎓️️Dev Stats
-<div style="display: flex; flex-direction: col;">
-  
- <img align="right" alt="Coding" height="240" src="https://user-images.githubusercontent.com/72983957/199962447-1e815c54-006b-4cc4-b94d-22a802e11fcc.svg">
-
-</div>
-
-
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks" width="50%" />
 
