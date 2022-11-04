@@ -15,23 +15,23 @@
 
 ## 👨‍🎓️️Dev Stats
 <div style="display: flex; flex-direction: col;">
+  
+ <img align="right" alt="Coding" height="240" src="https://user-images.githubusercontent.com/72983957/199962447-1e815c54-006b-4cc4-b94d-22a802e11fcc.svg">
 
-  <img align="right" alt="Coding" height="240" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </div>
 
 
 <div style="display: flex; flex-direction: row;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=gotham&show_icons=true" alt="Top Langs" width="50%" />
-    <img  alt="Top Languages" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks" width="50%" />
+
+  <!-- Stats   -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=gotham&show_icons=true&count_private=true" alt="Stats" width="50%" />
+
+  <!--  Top Langs  -->
+  <img  alt="Top Languages" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh&layout=compact&langs_count=8&count_private=true&theme=gotham&show_icons=true" width="50%" >
 </div>
 &nbsp;
 <img src="https://activity-graph.herokuapp.com/graph?username=codewithdinesh&theme=gotham" alt="Activity graph"  width="50%"  />
-
-
---
-
----
 
 
 ---
