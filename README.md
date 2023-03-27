@@ -1,54 +1,18 @@
+# 💫 About Me:
+👋 I’m @Dinesh Rathod<br>👀 I’m interested in Web developement<br>🌱 I’m currently learning Competitive Programing and improving web development<br>🤝 Love to collaborate with other developers<br>📫 How to reach me: dineshrathod0198@gmail.com
 
 
-# Hello!! 👋
-  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dineshrathod03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dineshrathod03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshrathod03) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codewithdinesh) 
 
-## 🤘About Me
-
-- 👋 I’m @Dinesh Rathod
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning Competitive Programing and improving web development
-- 🤝 Love to collaborate with other developers
-- 📫 How to reach me: [dineshrathod0198@gmail.com](mailto:dineshrathod0198+github@gmail.com)
-
-<img  alt="Coding" height="100%" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" align="right" >
-
----
-
-## 👨‍🎓️️Dev Stats
-
-<div style="display: flex; flex-direction: row;">
-
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=gotham" alt="Streaks"    />
-
-  <!-- Stats   -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=gotham&show_icons=true&count_private=true" alt="Stats" />
-
-  <!--  Top Langs  -->
-  <img  alt="Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh&layout=compact&langs_count=8&count_private=true&theme=gotham&show_icons=true">
-</div>
-&nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=codewithdinesh&theme=gotham" alt="Activity graph"  />
-
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codewithdinesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithdinesh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdinesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=codewithdinesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️Languages & Tools
-
-<p align="center">
-  <img align="center" title="Android" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" alt="Android" width="40" />&nbsp;
-  <img align="center" title="React" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40"  />&nbsp;
-    <img align="center" title="Node.js" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" alt="Node.js" width="40"  />&nbsp;
-   <br/><br/>
-  <img align="center" title="Firebase" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/firebase/firebase.png" alt="Firebase" width="40"  />&nbsp;
-  <img align="center" title="AWS" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="40"  />&nbsp;
-    <br/><br/>
-    <img align="center" title="Javascript" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40"  />&nbsp;
-  <img align="center" title="Java" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="40"  />&nbsp;
-  <img align="center" title="Python" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40"  />&nbsp;
-   <br/><br/>
-  <img align="center" title="Linux" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="40"  />&nbsp;
-  <img align="center" title="Visual Studio Code" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40"  />&nbsp;
-  <img align="center" title="Figma" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" alt="Figma" width="40"  />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
