@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 I’m @Dinesh Rathod<br>👀 I’m interested in Web developement<br>🌱 I’m currently learning Competitive Programing and improving web development<br>🤝 Love to collaborate with other developers<br>📫 How to reach me: dineshrathod0198@gmail.com
+👋 I’m @Dinesh Rathod<br>👀 I’m interested in Web developement and Mobile App Developement
+<br>🌱 I’m currently learning AI and improving web development
+<br>🤝 Love to collaborate with other developers
+<br>📫 How to reach me: dineshrathod0198@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,10 +18,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codewithdinesh&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 # 🚀Projects:
 list of Projects on which I've Worked
+<details>
+<summary> Show Web Projects </summary>
 
 | #   | Project Name                                      | Technologies Used                                 | Description                                                   | Links                                                           | GitHub Repo                                       |
 | --- | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------- |
@@ -44,8 +48,10 @@ list of Projects on which I've Worked
 | 20  | Image Finder                                       | ReactJS                                          | Created with React, utilizing the Pixabay.com API             | [Link](https://image-finder-react-app.netlify.app/)           | -                                                 |
 | 21  | H-fitness                                          | HTML, TailwindCSS                                | Simple Landing Page for Fitness Gym                            | [Link](http://h-fitness.dineshrathod.rf.gd/)                                                               | -                                                 |
 | 22  | Explore Kedarnath                                  | WordPress                                        | Simple website for Kedarnath tourism                          | -                                                               | -                                                 |
+</details>
 
-### Android Projects
+<details>
+<summary> Mobile Applications Projects </summary>
 
 | #   | Project Name                                      | Technologies Used                                 | Description                                                   | GitHub Repo                                       |
 | --- | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
@@ -58,3 +64,4 @@ list of Projects on which I've Worked
 | 29  | Random Meme Generator                               | Flutter                                          | Simple app that fetches memes from the internet and displays them | -                                                 |
 | 30  | OTT Platform                                        | Flutter                                          | Video streaming OTT platform                                  | -                                                 |
 
+</details>
